@@ -3,6 +3,7 @@
 ## Questão I - State
 - **Padrão**: State
 - **Justificativa**: a classe `BoletimProva` muda de comportamento conforme a fase da prova. O padrão State organiza essas mudanças em objetos separados, facilitando extensão e manutenção.
+- **Localização**: diretório `state`.
 - **Papéis**:
   - `BoletimProva` - Contexto
   - `FaseProva` - Estado
@@ -11,6 +12,7 @@
 ## Questão II - Chain of Responsibility
 - **Padrão**: Chain of Responsibility
 - **Justificativa**: a apuração da prova envolve várias regras encadeadas que podem variar conforme a configuração. Com o padrão Chain of Responsibility é possível adicionar ou remover regras sem alterar as existentes.
+- **Localização**: diretório `chainOfResponsability`.
 - **Papéis**:
   - `Apurador` - Configura e inicia a cadeia
   - `RegraApuracao` - Handler abstrato
