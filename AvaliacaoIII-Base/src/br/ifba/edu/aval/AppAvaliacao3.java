@@ -4,8 +4,8 @@ import java.time.Duration;
 
 import br.ifba.edu.aval.exception.AtividadeNaoPermitidaException;
 import br.ifba.edu.aval.exception.DNFException;
-import br.ifba.edu.aval.model.Apurador;
-import br.ifba.edu.aval.model.BoletimProva;
+import br.ifba.edu.aval3.chainOfResponsability.Apurador;
+import br.ifba.edu.aval3.state.BoletimProva;
 
 public class AppAvaliacao3 extends AppAvaliacaoBase{
 	

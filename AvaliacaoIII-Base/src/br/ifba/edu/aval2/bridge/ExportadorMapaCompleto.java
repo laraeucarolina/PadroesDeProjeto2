@@ -1,6 +1,6 @@
 package br.ifba.edu.aval2.bridge;
 
-import br.ifba.edu.aval.model.BoletimProva;
+import br.ifba.edu.aval3.state.BoletimProva;
 import br.ifba.edu.aval.model.Mapa;
 import br.ifba.edu.aval.model.PontoGeografico;
 import br.ifba.edu.aval.model.Prisma;
