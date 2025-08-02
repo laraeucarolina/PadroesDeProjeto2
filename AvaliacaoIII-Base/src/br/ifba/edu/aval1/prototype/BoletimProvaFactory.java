@@ -3,7 +3,7 @@ package br.ifba.edu.aval1.prototype;
 import java.util.HashMap;
 import java.util.Map;
 
-import br.ifba.edu.aval.model.BoletimProva;
+import br.ifba.edu.aval3.state.BoletimProva;
 import br.ifba.edu.aval.model.Dificuldade;
 import br.ifba.edu.aval.model.Idade;
 import br.ifba.edu.aval.model.Sexo;
